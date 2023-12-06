@@ -21,6 +21,7 @@ public class MyClient4 {
             ch += 1;
             System.out.println(ch);
         }
+
         dout.flush();
         dout.close();
         s.close();
